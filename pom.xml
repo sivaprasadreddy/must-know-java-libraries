@@ -16,7 +16,7 @@
         <org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
         <record-builder.version>41</record-builder.version>
         <eclipse-collections.version>11.1.0</eclipse-collections.version>
-        <hypersistence-utils.version>3.7.3</hypersistence-utils.version>
+        <hypersistence-utils.version>3.8.2</hypersistence-utils.version>
         <junit-jupiter.version>5.10.2</junit-jupiter.version>
         <assertj-core.version>3.25.3</assertj-core.version>
         <toolchains-maven-plugin.version>4.5.0</toolchains-maven-plugin.version>
